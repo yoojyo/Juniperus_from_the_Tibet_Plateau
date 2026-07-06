@@ -1,4 +1,0 @@
-Summary of optimal K values under different filtering conditions.,,,
-max-missing,MAF > 0.01,MAF > 0.05,MAF > 0.1
-0.5,K = 2,K = 3,K = 4
-0.8,K = 2,K = 4,K = 4
